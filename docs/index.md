@@ -1,4 +1,4 @@
-# Proyecto intermodular - Curso 25/26
+# Proyecto intermodular - Curso 26/27
 
 ## Introducción
 
