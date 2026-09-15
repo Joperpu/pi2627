@@ -18,7 +18,7 @@ El módulo busca que el alumnado alance los siguientes objetivos expresados como
 
 ## Sesiones
 
-- Lunes de 8:30 a 9:30 h y de 10:30 a 11:30 h.
+- Lunes de 8:30 a 10:30 horas.
 
 ## Contenidos
 
