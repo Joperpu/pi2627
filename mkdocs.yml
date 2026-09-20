@@ -22,7 +22,7 @@ theme:
   logo: "assets/images/logo.png"
 nav:
   - Página principal: index.md
-  #- Introducción a la metodología de proyectos: intro.md
+  - Introducción a la metodología de proyectos: intro.md
   #- Proyecto 1:
     #- Proyecto 1 Parte 1: pr1.1.md
     #- Proyecto 1 Parte 2: pr1.2.md

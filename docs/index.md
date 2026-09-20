@@ -24,9 +24,8 @@ El módulo busca que el alumnado alance los siguientes objetivos expresados como
 
 Los contenidos exigidos al módulo se van a trabajar a través de los 3 trimestres de la siguiente forma:
 
-- 1er trimestre: Introducción a la realización de proyectos. Realización de proyectos en grupo.
-- 2º trimestre: Realización de proyectos individuales.
-- 3er trimestre: Realización de proyecto final individual.
+- 1er trimestre: Introducción a la realización de proyectos. Realización de proyectos en grupo y de forma individual.
+- 2º y 3er trimestre: Realización de proyecto final.
 
 ## Metodología
 
