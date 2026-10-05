@@ -114,6 +114,6 @@ Crea una tabla que relacione cada requisito con al menos un criterio de aceptaci
 
 ## Entregable del proyecto
 
-Usando [la Ficha de Requisitos V1](https://docs.google.com/document/d/15XYdvNTYeuwKqG7BCrAWtBfALaQJ4Q5vrzLVDLNXVok/edit?usp=sharing), determina objetivos, alcance, requisitos, restricciones y criterios de aceptación del supuesto anterior, en grupos de 3-4 personas.
+Usando [la Ficha de Requisitos V1](https://docs.google.com/document/d/15XYdvNTYeuwKqG7BCrAWtBfALaQJ4Q5vrzLVDLNXVok/edit?usp=sharing), determina objetivos, alcance, requisitos, restricciones y criterios de aceptación del supuesto anterior, de forma individual.
 
 Crea una copia en tu unidad de Drive y una vez finalizada esta fase realiza su entrega en la tarea correspondiente de Moodle Centros.

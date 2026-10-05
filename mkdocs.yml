@@ -25,7 +25,7 @@ nav:
   - Introducción a la metodología de proyectos: intro.md
   - Proyecto 1:
     - Proyecto 1 Parte 1: pr1.1.md
-    #- Proyecto 1 Parte 2: pr1.2.md
+    - Proyecto 1 Parte 2: pr1.2.md
   #- Proyecto 2:
     #- Proyecto 2: pr2.md
     #- Plantilla memoria P2: plantilla_memoria_p2.md
